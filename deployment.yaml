@@ -18,7 +18,7 @@ spec:
         app: my-nginx
     spec:
       containers:
-      - image: hadjtaiebsofttodo/nginxtest:v2
+      - image: hadjtaiebsofttodo/nginxtest:v1
         name: nginx
         resources: {}
 status: {}
